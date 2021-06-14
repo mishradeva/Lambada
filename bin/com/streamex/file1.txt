@@ -1,0 +1,21 @@
+Skip to main content
+skills home
+Home
+
+Browse
+Search
+Search…
+Paths
+Channels
+Bookmarks
+notifications
+
+Pluralsight products
+View profile and more
+N
+Adding Metadata with Java Annotations
+by Jim Wilson
+
+Incorporating custom metadata is an essential part of working in Java. This course will teach you how to add custom metadata with Java annotations.
+
+Start Course
